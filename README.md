@@ -1,4 +1,3 @@
-# Supershop-Report
 
 # 🧾 Superstore Sales Power BI Dashboard
 
